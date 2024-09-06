@@ -1,1 +1,20 @@
+body{
+    color:black;
+    background: chartreuse;
+        margin:opx;
+}
 
+      header{
+        border-bottom:splid  3px hotpink;
+        padding: 20px;
+        font-size: 32px;
+        color: black;
+      }
+
+section{
+      background: grren;
+      padding-bottom: 80px;
+      padding-top: 80px;
+      display: flex
+      justify-content:center
+}
